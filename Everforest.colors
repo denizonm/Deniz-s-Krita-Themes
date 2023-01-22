@@ -1,0 +1,29 @@
+[Colors:Button]
+BackgroundAlternate  = 33,36,50
+BackgroundNormal     = 54,54,54
+ForegroundNormal     = 201,198,170
+
+
+
+
+[Colors:Selection]
+BackgroundNormal     = 86,157,121
+ForegroundNormal     = 255,255,255
+
+
+[Colors:View]
+BackgroundAlternate  = 33,36,50
+BackgroundNormal     = 54,54,54
+ForegroundNormal     = 201,198,170
+
+
+
+[Colors:Window]
+BackgroundNormal     = 47,56,62
+ForegroundNormal     = 82,92,98
+
+
+[General]
+Name                 = Everforest
+
+

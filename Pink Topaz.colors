@@ -1,0 +1,29 @@
+[Colors:Button]
+BackgroundAlternate  = 243,155,160
+BackgroundNormal     = 239,233,217
+ForegroundNormal     = 55,41,26
+
+
+
+
+[Colors:Selection]
+BackgroundNormal     = 243,155,160
+ForegroundNormal     = 255,255,255
+
+
+[Colors:View]
+BackgroundAlternate  = 243,155,160
+BackgroundNormal     = 239,233,217
+ForegroundNormal     = 55,41,26
+
+
+
+[Colors:Window]
+BackgroundNormal     = 239,233,217
+ForegroundNormal     = 55,41,26
+
+
+[General]
+Name                 = Pink Topaz
+
+

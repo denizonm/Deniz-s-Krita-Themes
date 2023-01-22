@@ -1,0 +1,29 @@
+[Colors:Button]
+BackgroundAlternate  = 153,229,181
+BackgroundNormal     = 22,63,38
+ForegroundNormal     = 47,233,120
+
+
+
+
+[Colors:Selection]
+BackgroundNormal     = 47,233,120
+ForegroundNormal     = 2,7,4
+
+
+[Colors:View]
+BackgroundAlternate  = 2,7,4
+BackgroundNormal     = 2,7,4
+ForegroundNormal     = 153,229,181
+
+
+
+[Colors:Window]
+BackgroundNormal     = 11,21,16
+ForegroundNormal     = 153,229,181
+
+
+[General]
+Name                 = Hacker Dark
+
+
