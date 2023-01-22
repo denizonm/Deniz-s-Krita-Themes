@@ -1,4 +1,4 @@
-# Deniz's-Krita Themes
+# Deniz's Krita Themes
 
 Krita's looking very cute today.
 
