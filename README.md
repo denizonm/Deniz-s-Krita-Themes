@@ -6,6 +6,8 @@ These are mostly based on Obsidian community themes. Purple Haze is Mado Miniflo
 
 ## Everforest
 
+[[Everforest.png]]
+
 ## Pink Topaz
 
 ## Hacker
