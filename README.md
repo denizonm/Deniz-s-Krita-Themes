@@ -12,12 +12,13 @@ These are mostly based on Obsidian community themes. Purple Haze is Mado Miniflo
 - Put all the files in the "color-schemes" folder (its a folder that's inside the resource folder that just opened up.
 - Restart Krita
 - **You're Done!**
-*man, it would be cool if there was an easier way to do this*
+
+*man, it would be cool if there was an easier way to do this.*
 
 # Changing Themes
 - Go to the "Settings" drop down menu at the top
 - There is a section called "Themes" where you can change your theme.
-- Enjoy yout new look (or else.)
+- Enjoy your new look (or else.)
 
 
 # Screemshots
@@ -40,4 +41,4 @@ These are mostly based on Obsidian community themes. Purple Haze is Mado Miniflo
 
 # Bonus Info
 - You can change the color of the canvas background in "Settings"->"Configure Krita"->"Display"->"Grid Settings"->"Canvas Border Color"
-- There is cırremtly (Jan 2023) is no way to use these in the android app. (Maybe if you're rooted?)
+- There is curremtly (Jan 2023) is no way to use these in the Android app. (Maybe if you're rooted?)
