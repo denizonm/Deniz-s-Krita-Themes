@@ -41,4 +41,4 @@ These are mostly based on Obsidian community themes. Purple Haze is Mado Miniflo
 
 # Bonus Info
 - You can change the color of the canvas background in "Settings"->"Configure Krita"->"Display"->"Grid Settings"->"Canvas Border Color"
-- There is curremtly (Jan 2023) is no way to use these in the Android app. (Maybe if you're rooted?)
+- There is currently (Jan 2023) is no way to use these in the Android app. (Maybe if you're rooted?)
