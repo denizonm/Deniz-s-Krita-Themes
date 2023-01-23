@@ -21,7 +21,7 @@ These are mostly based on Obsidian community themes. Purple Haze is Mado Miniflo
 - Enjoy your new look (or else.)
 
 
-# Screemshots
+# Screenshots
 
 ## Everforest
 
