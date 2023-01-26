@@ -6,7 +6,7 @@ These are mostly based on Obsidian community themes. Purple Haze is Mado Miniflo
 
 # Installation
 - Go to "Releases" on the right
-- Download the zip, unarchive it
+- Download the “Source Code” zip, unarchive it (or download the themes individually)
 - In krita, go to the "Settings" drop down menu at the top.
 - Select "Manage Resources", then click the "Open Resource Fonder" on the bottom right
 - Put all the files in the "color-schemes" folder (its a folder that's inside the resource folder that just opened up.
